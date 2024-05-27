@@ -42,3 +42,23 @@
 //Stack (Primitive), Heap (Non-Primitive)
 
 
+// let myYoutubename = "hiteshchoudharydotcom"
+
+// let anothername = "chaiaurcode"
+
+// console.log(anothername);
+// console.log(myYoutubename);
+
+
+let userOne = {
+
+    email: "user@gmail.com"
+    // upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "hitesh@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
