@@ -20,15 +20,25 @@
 
 // Array, Objects, Functions
 
-const heros = ["shaktiman", "naagraj", "doga"]
-let myObj = {
-    name: "kamlesh",
-    age: 38,
-}
+// const heros = ["shaktiman", "naagraj", "doga"]
+// let myObj = {
+//     name: "kamlesh",
+//     age: 38,
+// }
 
-console.log(myObj);
-const myFunction = function(){}
-console.log("Hellow World");
+// console.log(myObj);
+// const myFunction = function(){}
+// console.log("Hellow World");
 
 
-console.log(typeof anotherId);
+// console.log(typeof anotherId);
+
+
+
+
+
+//***********************************************************************
+
+//Stack (Primitive), Heap (Non-Primitive)
+
+
