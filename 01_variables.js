@@ -9,5 +9,3 @@ accountPassword = " 21212121 "
 accountCity = " Bangluru "
 accountState = " gujarat "
 console.log([accountId, accountEmail, accountPassword, accountCity, accountState]);
-
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
