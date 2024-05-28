@@ -1,6 +1,18 @@
-console.log("kamlesh");
-let str1 = " naksh "
-let str2 = " hargun "
+const accountId = 225507
+let accountEmail = " naresh@gmail.com "
+accountPassword = " 12345 "
+accountCity = " Jaipur "
+accountState = " rajasthan "
 
-let str3 = str1 + str2
-console.log(str3);
+accountEmail = " c@hc.com "
+accountPassword = " 21212121 "
+accountCity = " Bangluru "
+accountState = " gujarat "
+
+accountEmail = " sunil@ecom "
+accountPassword = " 548575 "
+accountCity = " lal kothi "
+accountState = " jaipur "
+
+console.log([accountId, accountEmail, accountPassword, accountCity, accountState]);
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
