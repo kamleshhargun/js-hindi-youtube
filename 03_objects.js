@@ -1,3 +1,8 @@
+// singleton
+// object literals
+
+// Object.create
+
 const JsUser = {
     name: "kamlesh",
     age: 38,
