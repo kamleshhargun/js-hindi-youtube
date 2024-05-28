@@ -1,3 +1,6 @@
+// string ka matalab he alfabets //
+
+
 const name = "hitesh"
 const repoCount = 50
 
