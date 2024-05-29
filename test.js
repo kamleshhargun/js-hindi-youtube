@@ -1,7 +1,5 @@
-const course = {
-    coursename: "js in hindi",
-    price: "999",
-    couseInstructor: "hitesh"
+function loginUserMessage(username){
+    return '${uresname} just logged in'
 }
 
-course.courseInstructor
+console.log(loginUserMessage("hitessh"));
